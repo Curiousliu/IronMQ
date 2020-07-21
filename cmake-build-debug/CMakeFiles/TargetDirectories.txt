@@ -1,0 +1,3 @@
+/data/home/koko1/MyMQ/cmake-build-debug/CMakeFiles/edit_cache.dir
+/data/home/koko1/MyMQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/data/home/koko1/MyMQ/cmake-build-debug/CMakeFiles/MyMQ.dir
